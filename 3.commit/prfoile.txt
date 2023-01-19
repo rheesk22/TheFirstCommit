@@ -1,2 +1,2 @@
-email :
-gitID :
+email : rheeesk22@naver.com
+gitID : rheesk22
